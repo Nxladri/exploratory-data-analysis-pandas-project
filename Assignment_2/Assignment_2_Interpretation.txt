@@ -1,0 +1,6 @@
+The statistical analysis of the heart disease dataset revealed important patterns in the distribution and spread of multiple health-related features. 
+Histograms and KDE plots showed that variables such as cholesterol, age, and maximum heart rate are not perfectly normally distributed and exhibit varying levels of skewness. 
+Boxplots highlighted the presence of outliers in features like cholesterol and resting blood pressure, indicating unusual patient records that may influence predictive modeling. 
+Group-based distribution comparisons demonstrated how factors such as chest pain type, cholesterol levels, and thalach vary across different age groups, 
+helping identify behavioral and clinical trends associated with heart disease risk. 
+Overall, the analysis provided a clear understanding of data distribution, variability, skewness, and potential anomalies, which are essential for effective preprocessing and future machine learning applications.
